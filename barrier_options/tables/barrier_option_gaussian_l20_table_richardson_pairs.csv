@@ -1,0 +1,9 @@
+application,model,l,derivative_order,method,fd_delta,fd_delta_half,estimate,se,selected
+barrier_option,gaussian,20,1,FD (Rich.),0.5,0.25,0.264221507900927,0.0004827435436983406,1
+barrier_option,gaussian,20,1,FD (Rich.),1.0,0.5,0.2635698280676563,0.00030764115876838043,0
+barrier_option,gaussian,20,1,FD (Rich.),2.0,1.0,0.26353096850961155,0.0002684947783917508,0
+barrier_option,gaussian,20,1,FD (Rich.),4.0,2.0,0.26324266669391605,0.0001519418512809169,0
+barrier_option,gaussian,20,2,GLR+FD (Rich.),0.5,0.25,0.031268286585668,0.0002130081683323313,1
+barrier_option,gaussian,20,2,GLR+FD (Rich.),1.0,0.5,0.03129988915595884,8.91960347230622e-05,0
+barrier_option,gaussian,20,2,GLR+FD (Rich.),2.0,1.0,0.03120745927389555,9.971471933683686e-05,0
+barrier_option,gaussian,20,2,GLR+FD (Rich.),4.0,2.0,0.031184528205323782,7.494352123657969e-05,0

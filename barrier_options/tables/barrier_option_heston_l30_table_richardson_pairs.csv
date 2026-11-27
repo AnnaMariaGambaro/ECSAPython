@@ -1,0 +1,9 @@
+application,model,l,derivative_order,method,fd_delta,fd_delta_half,estimate,se,selected
+barrier_option,heston,30,1,FD (Rich.),0.5,0.25,0.3119835330795654,0.0014410206718615324,1
+barrier_option,heston,30,1,FD (Rich.),1.0,0.5,0.31016903255607287,0.0008220816359997571,0
+barrier_option,heston,30,1,FD (Rich.),2.0,1.0,0.31068772158801317,0.0008055034300031137,0
+barrier_option,heston,30,1,FD (Rich.),4.0,2.0,0.3104329743297244,0.00044633512181137383,0
+barrier_option,heston,30,2,GLR+FD (Rich.),0.5,0.25,0.01513208817455572,0.0003578588980729733,1
+barrier_option,heston,30,2,GLR+FD (Rich.),1.0,0.5,0.01502417120297805,0.0003474233830831259,0
+barrier_option,heston,30,2,GLR+FD (Rich.),2.0,1.0,0.01522787212206538,0.00020342898538753008,0
+barrier_option,heston,30,2,GLR+FD (Rich.),4.0,2.0,0.01528142560872502,0.00021273305218232435,0

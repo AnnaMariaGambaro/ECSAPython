@@ -1,0 +1,9 @@
+application,model,derivative_order,method,fd_delta,fd_delta_half,estimate,se,selected
+control_chart,shewhart,1,FD (Rich.),0.025,0.0125,63.92386,0.4532986705892052,1
+control_chart,shewhart,1,FD (Rich.),0.05,0.025,63.33137333333334,0.31842101743392864,0
+control_chart,shewhart,1,FD (Rich.),0.1,0.05,63.35908,0.22552393714622215,0
+control_chart,shewhart,1,FD (Rich.),0.2,0.1,62.93763333333334,0.16146868609142465,0
+control_chart,shewhart,2,GLR+FD (Rich.),0.025,0.0125,148.57419419096587,1.8576957113210908,1
+control_chart,shewhart,2,GLR+FD (Rich.),0.05,0.025,149.5094409659391,1.321343095431009,0
+control_chart,shewhart,2,GLR+FD (Rich.),0.1,0.05,150.27404809321493,0.946650418160602,0
+control_chart,shewhart,2,GLR+FD (Rich.),0.2,0.1,148.25344663963116,0.6910436461794645,0

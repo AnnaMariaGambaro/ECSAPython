@@ -1,0 +1,9 @@
+application,model,l,derivative_order,method,fd_delta,fd_delta_half,estimate,se,selected
+barrier_option,nig_amzn,20,1,FD (Rich.),0.5,0.25,0.18611174531677144,0.0008532803881739742,1
+barrier_option,nig_amzn,20,1,FD (Rich.),1.0,0.5,0.1854572934335421,0.0004087066061319078,0
+barrier_option,nig_amzn,20,1,FD (Rich.),2.0,1.0,0.18553127356148894,0.00041084439100418823,0
+barrier_option,nig_amzn,20,1,FD (Rich.),4.0,2.0,0.18597756535099808,0.0002059479827125673,0
+barrier_option,nig_amzn,20,2,GLR+FD (Rich.),0.5,0.25,0.005881690314479316,0.00017865228882458928,1
+barrier_option,nig_amzn,20,2,GLR+FD (Rich.),1.0,0.5,0.005789120601646969,0.0001092263457037202,0
+barrier_option,nig_amzn,20,2,GLR+FD (Rich.),2.0,1.0,0.005806294874708295,7.021136231958721e-05,0
+barrier_option,nig_amzn,20,2,GLR+FD (Rich.),4.0,2.0,0.005859248952959104,5.0903757894143505e-05,0
